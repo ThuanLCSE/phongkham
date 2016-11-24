@@ -10,6 +10,6 @@ var mongo_db = mongoose();
 
 var server = express(mongo_db);
 
-server.listen('3013');
+server.listen(process.env.PORT || 8080);
 console.log('-----Server running at http://localhost:3013/ ------'); 
 module.exports = server;
