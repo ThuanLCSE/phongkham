@@ -1,0 +1,6 @@
+:local(.foo) {
+  color: red;
+}
+:local(.bar) {
+  color: blue;
+}
