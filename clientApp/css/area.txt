@@ -1,1 +1,0 @@
-Phòng khách=1,Phòng ngủ con=2,Phòng ngủ ba mẹ=3,Bếp=4,Sân=5 
